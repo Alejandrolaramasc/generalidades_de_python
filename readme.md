@@ -1,0 +1,1 @@
+Acá trato diversos temas recurrentes básicos de python
